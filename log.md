@@ -8,5 +8,9 @@
 
 **Link to work:** https://www.freecodecamp.org/radhika-tupkary
 
+### Day 2: January 31, 2018
 
+**Today's Progress**: Installed Vue cli, read vue docs, played with sample programs of vue.js in jsfiddle. 
+
+**Thoughts:** Although I had worked on Vue.js few months ago in my previous job, revising it today and playing with examples of vue.js cleared up many things. Feeling good (happy :)). 
 
