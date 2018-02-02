@@ -14,3 +14,9 @@
 
 **Thoughts:** Although I had worked on Vue.js few months ago in my previous job, revising it today and playing with examples of vue.js cleared up many things. Feeling good (happy :)). 
 
+### Day 3: February 1, 2018
+
+**Today's Progress**: Read vue docs, played with Nuxt.js, started my first vue project.  
+
+**Thoughts:** Man, it was so difficult to find that one hr after a tough day at office..
+
