@@ -20,3 +20,24 @@
 
 **Thoughts:** Man, it was so difficult to find that one hr after a tough day at office..
 
+### Day 4: February 2, 2018
+
+**Today's Progress**: Read vue docs, nuxtjs docs.  
+
+**Thoughts:** 
+
+### Day 5: February 3, 2018
+
+**Today's Progress**: Read vue docs, vuetify docs
+
+**Thoughts:** 
+
+### Day 6: February 4, 2018
+
+**Today's Progress**: Watched a youtube video on how to set up Nuxtjs and Vuetify on my first Vue project
+
+**Thoughts:** Struggled to get Nuxtjs, vuetify and Vue work together. Got some compilation errors. 
+
+### Day 7: February 5, 2018
+
+**Today's Progress**: Missed coding today
