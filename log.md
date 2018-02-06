@@ -24,7 +24,7 @@
 
 **Today's Progress**: Read vue docs, nuxtjs docs.  
 
-**Thoughts:** 
+**Thoughts:** There is so much to do and learn, at times it feels overwhelming
 
 ### Day 5: February 3, 2018
 
