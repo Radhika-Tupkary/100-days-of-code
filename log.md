@@ -41,3 +41,13 @@
 ### Day 7: February 5, 2018
 
 **Today's Progress**: Missed coding today
+
+### Day 6: February 6, 2018
+
+**Today's Progress**: Unfortunately, missed coding today as well :-(
+
+### Day 6: February 7, 2018
+
+**Today's Progress**: learnt how to test Node.js applications using Mocha, and expect.js
+
+ 
