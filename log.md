@@ -42,12 +42,16 @@
 
 **Today's Progress**: Missed coding today
 
-### Day 6: February 6, 2018
+### Day 8: February 6, 2018
 
 **Today's Progress**: Unfortunately, missed coding today as well :-(
 
-### Day 6: February 7, 2018
+### Day 9: February 7, 2018
 
 **Today's Progress**: learnt how to test Node.js applications using Mocha, and expect.js
 
- 
+ ### Day 10: February 8, 2018
+
+**Today's Progress**: Created a node server using express.js for my backbone project, and deployed it to heroku! 
+
+ **Thoughts:** Although it was fairly simple, it still gave me a good confidence boost. Feeling good. 
