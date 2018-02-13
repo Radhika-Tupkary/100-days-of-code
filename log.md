@@ -55,3 +55,26 @@
 **Today's Progress**: Created a node server using express.js for my backbone project, and deployed it to heroku! 
 
  **Thoughts:** Although it was fairly simple, it still gave me a good confidence boost. Feeling good. 
+ 
+ ### Day 11: February 9, 2018
+
+**Today's Progress**: Finally started learning react - course by Stephen Grider
+
+ **Thoughts:** Got intro to react terms - components, JSX syntax etc. React looks interesting.
+
+### Day 12: February 10, 2018
+
+**Today's Progress**: Started with Youtube-search app using React.
+
+### Day 13: February 11, 2018
+
+**Today's Progress**: Completed youtube-search-app 
+
+ **Thoughts:** Yayy! Built first react app, and it looks fairly nice!
+
+### Day 14: February 12, 2018
+
+**Today's Progress**: Intro to Redux!
+
+ **Thoughts:** What the heck is Redux?!
+
