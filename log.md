@@ -70,11 +70,47 @@
 
 **Today's Progress**: Completed youtube-search-app 
 
- **Thoughts:** Yayy! Built first react app, and it looks fairly nice!
+ **Thoughts:** Yayy! Built the first react app, and it looks fairly nice!
 
 ### Day 14: February 12, 2018
 
 **Today's Progress**: Intro to Redux!
 
  **Thoughts:** What the heck is Redux?!
+ 
+ ### Day 15: February 13, 2018
+
+**Today's Progress**: Started working on my portfolio, struggled to put my React app on Heroku. 
+
+ **Thoughts:** Managed to edit a bootstrap template to build my portfolio, but I really need to understand SAAS. Why in the world its so difficult to put Webpack + React apps on Heroku! Frustrating. 
+ 
+ ### Day 16: February 14, 2018
+
+**Today's Progress**: Made further progress on building my portfolio
+
+ **Thoughts:** Cool, building a portfoloio is not that difficult!
+ 
+ ### Day 17: February 15, 2018
+
+**Today's Progress**: Missed coding today
+
+ **Thoughts:** kinda feeling sad
+ 
+ ### Day 18: February 16, 2018
+
+**Today's Progress**: Intro to Redux!
+
+ **Thoughts:** What the heck is Redux?!
+ 
+ ### Day 19: February 17, 2018
+
+**Today's Progress**: Started taking the Advanced CSS course on Udemy, started building a custom website - IntoTheSpace
+
+ **Thoughts:** Now I understand what exactly is the difference between display block, inline, and inline-block. Feeling excited to build my first website full of animations and cool effects! :-)
+ 
+ ### Day 20: February 18, 2018
+
+**Today's Progress**: completed the header section of my space website
+
+ **Thoughts:** Now I know how to create custom logos, how to use transform and keyframes properties to create animations. 
 
