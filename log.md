@@ -114,3 +114,61 @@
 
  **Thoughts:** Now I know how to create custom logos, how to use transform and keyframes properties to create animations. 
 
+### Day 21: February 19, 2018
+
+**Today's Progress**: learnt SASS
+
+ **Thoughts:** SASS is way better than CSS, really!
+
+### Day 22: February 20, 2018
+
+**Today's Progress**: continued Node course, started working with MongoDB!
+
+ **Thoughts:** Yayy! Finally I am learning NoSQL db!
+
+### Day 23: February 21, 2018
+
+**Today's Progress**: continued Node course, started working with Postman, MongoDB.
+
+ **Thoughts:** I had used Postman in my first job, I remembered every single thing before watching the videos on how to manage environments in postman etc - feeling good!
+ 
+ ### Day 24: February 22, 2018
+
+**Today's Progress**: continued Node course, deployed todo api on heroku! 
+
+ **Thoughts:** This is exciting. :-)
+ 
+ ### Day 25: February 23, 2018
+
+**Today's Progress**: started learning AWS. Did not do any coding as such, but still something to note!
+
+ **Thoughts:** learning AWS opens up a whole new world!
+ 
+ ### Day 26: February 24, 2018
+
+**Today's Progress**: practised plain JS problems - on Arrays, Objects and Strings
+
+ **Thoughts:** I should practice my basics more often!
+ 
+ ### Day 27: February 25, 2018
+
+**Today's Progress**: JS problems practice, created a Pen and a fiddle to keep track
+
+ **Thoughts:** Codepen and JSfiddle are really helpfull, why didn't I use them before???
+ 
+ ### Day 28: February 26, 2018
+
+**Today's Progress**: praticed CSS whiteboard questions
+
+ ### Day 29: February 27, 2018
+
+**Today's Progress**: practised Node.js whiteboard questions.
+
+
+
+
+
+
+
+
+
