@@ -82,7 +82,7 @@
 
 **Today's Progress**: Started working on my portfolio, struggled to put my React app on Heroku. 
 
- **Thoughts:** Managed to edit a bootstrap template to build my portfolio, but I really need to understand SAAS. Why in the world its so difficult to put Webpack + React apps on Heroku! Frustrating. 
+ **Thoughts:** Managed to edit a bootstrap template to build my portfolio, but I really need to understand SASS. Why in the world its so difficult to put Webpack + React apps on Heroku! Frustrating. 
  
  ### Day 16: February 14, 2018
 
@@ -98,9 +98,7 @@
  
  ### Day 18: February 16, 2018
 
-**Today's Progress**: Intro to Redux!
-
- **Thoughts:** What the heck is Redux?!
+**Today's Progress**: worked on my portfolio content
  
  ### Day 19: February 17, 2018
 
