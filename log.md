@@ -156,17 +156,38 @@
  
  ### Day 28: February 26, 2018
 
-**Today's Progress**: praticed CSS whiteboard questions
+**Today's Progress**: Praticed HTML, CSS whiteboard questions. https://codepen.io/Radhika-Tupkary/pen/WMLGjj
 
  ### Day 29: February 27, 2018
 
-**Today's Progress**: practised Node.js whiteboard questions.
+**Today's Progress**: Practised Node.js whiteboard questions.
 
+ ### Day 30: February 28, 2018
 
+**Today's Progress**: Practised Javascript whiteboard questions. https://codepen.io/Radhika-Tupkary/pen/qxQeWQ
 
+ ### Day 31: March 1, 2018
 
+**Today's Progress**: Learnt about IAM (Identity And Access Management), S3 bucket of AWS through a course on Udemy.
 
+ ### Day 32: March 2, 2018
 
+**Today's Progress**: Practised Javascript whiteboard questions. https://codepen.io/Radhika-Tupkary/pen/yvGLdX
 
+ ### Day 33: March 3, 2018
+
+**Today's Progress**: Practised Javascript whiteboard questions. https://codepen.io/Radhika-Tupkary/pen/gvyqoP
+
+ ### Day 34: March 4, 2018
+
+**Today's Progress**: Practised Javascript whiteboard questions. https://codepen.io/Radhika-Tupkary/pen/RQOeQN
+
+ ### Day 35: March 5, 2018
+
+**Today's Progress**: Practised Javascript whiteboard questions. https://codepen.io/Radhika-Tupkary/pen/bLPEGj
+
+ ### Day 36: March 6, 2018
+
+**Today's Progress**: Completed RESTful routes of Node-Todo-App
 
 
