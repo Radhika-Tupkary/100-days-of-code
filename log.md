@@ -190,4 +190,56 @@
 
 **Today's Progress**: Completed RESTful routes of Node-Todo-App
 
+ ### Day 36: March 7, 2018
 
+**Today's Progress**:  Worked on OOP Twon problem https://codepen.io/Radhika-Tupkary/pen/xWZXmo
+
+ ### Day 36: March 8, 2018
+
+**Today's Progress**: Missed coding today
+
+ ### Day 36: March 9, 2018
+
+**Today's Progress**: Practiced Regex - https://codepen.io/Radhika-Tupkary/pen/gvyqoP
+
+ ### Day 36: March 10, 2018
+
+**Today's Progress**: Played around with d3.js - Javascript library for data visualization
+
+ ### Day 36: March 11, 2018
+
+**Today's Progress**: Played around with d3.js - Javascript library for data visualization
+
+ ### Day 36: March 12, 2018
+
+**Today's Progress**: Played around with d3.js - Javascript library for data visualization 
+
+ ### Day 36: March 13, 2018
+
+**Today's Progress**: Javascript coding practice https://www.codewars.com/users/Radhika-Tupkary/completed_solutions
+
+ ### Day 36: March 14, 2018
+
+**Today's Progress**: Javascript coding practice https://www.codewars.com/users/Radhika-Tupkary/completed_solutions
+
+ ### Day 36: March 15, 2018
+
+**Today's Progress**: Javascript coding practice https://www.codewars.com/users/Radhika-Tupkary/completed_solutions
+
+ ### Day 36: March 16, 2018
+
+**Today's Progress**: Completed RESTful routes of Node-Todo-App
+
+ ### Day 36: March 17, 2018
+
+**Today's Progress**: https://www.codewars.com/kata/where-my-anagrams-at/train/javascript
+
+ ### Day 36: March 18, 2018
+
+**Today's Progress**: Completed RESTful routes of Node-Todo-App
+
+ ### Day 36: March 19, 2018
+
+**Today's Progress**: Worked on OOP problem......https://codepen.io/Radhika-Tupkary/pen/LdpLpR
+
+ **Thoughts:** learnt about Abstract class, inheritance in ES6 etc. That randomActivity function was really tough to implement!
