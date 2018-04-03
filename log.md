@@ -243,3 +243,69 @@
 **Today's Progress**: Worked on OOP problem......https://codepen.io/Radhika-Tupkary/pen/LdpLpR
 
  **Thoughts:** learnt about Abstract class, inheritance in ES6 etc. That randomActivity function was really tough to implement!
+ 
+ ### Day 50: March 20, 2018
+
+**Today's Progress**: Javascript coding practice https://www.codewars.com/users/Radhika-Tupkary/completed_solutions
+
+### Day 51: March 21, 2018
+
+**Today's Progress**: Javascript coding practice https://www.codewars.com/users/Radhika-Tupkary/completed_solutions
+
+### Day 52: March 22, 2018
+
+**Today's Progress**: Javascript coding practice https://www.codewars.com/users/Radhika-Tupkary/completed_solutions
+
+### Day 53: March 23, 2018
+
+**Today's Progress**: Javascript coding practice https://www.codewars.com/users/Radhika-Tupkary/completed_solutions
+
+### Day 54: March 24, 2018
+
+**Today's Progress**: Javascript coding practice https://www.codewars.com/users/Radhika-Tupkary/completed_solutions
+
+### Day 55: March 25, 2018
+
+**Today's Progress**: Javascript coding practice https://www.codewars.com/users/Radhika-Tupkary/completed_solutions
+
+### Day 56: March 26, 2018
+
+**Today's Progress**: AWS - learnt S3, databases - Aurora, DynamoDB
+
+### Day 57: March 27, 2018
+
+**Today's Progress**: AWS - EC2
+
+**Thoughts**: AWS is super awesome
+ 
+### Day 58: March 28, 2018
+
+**Today's Progress**: AWS - built a serverless webpage using Lambda!
+
+**Thoughts**: AWS is really awesome
+
+### Day 59: March 29, 2018
+
+**Today's Progress**: AWS - VPC
+
+**Thoughts**: Refreshed computer networking protocols and subnetting basics!
+
+### Day 60: March 30, 2018
+
+**Today's Progress**: AWS - Application services - SQS, SNS, SWF, Kinesis
+
+### Day 61: March 31, 2018
+
+**Today's Progress**: https://www.codewars.com/users/Radhika-Tupkary/completed_solutions
+
+### Day 62: April 1, 2018
+
+**Today's Progress**: missed coding :/
+
+### Day 63: April 2, 2018
+
+**Today's Progress**: https://www.codewars.com/users/Radhika-Tupkary/completed_solutions
+
+### Day 64: April 3, 2018
+
+**Today's Progress**: Rubi on Rails - coding intro!
