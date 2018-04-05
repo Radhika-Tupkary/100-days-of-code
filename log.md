@@ -309,3 +309,11 @@
 ### Day 64: April 3, 2018
 
 **Today's Progress**: Rubi on Rails - coding intro!
+
+### Day 65: April 4, 2018
+
+**Today's Progress**: Worked on my first RoR app!
+
+### Day 66: April 5, 2018
+
+**Today's Progress**: Wrote tests for my first RoR app.
