@@ -318,12 +318,14 @@
 
 **Today's Progress**: Wrote tests for my first RoR app.
 
-
 ### Day 67: April 6, 2018
 
 **Today's Progress**: Complete first React + Redux app (weather app)
 
-
 ### Day 68: April 7, 2018
 
 **Today's Progress**: Started with React Router(v4) + Redux Form(v6)
+
+### Day 69: April 8, 2018
+
+**Today's Progress**: Intro to Webpack!
