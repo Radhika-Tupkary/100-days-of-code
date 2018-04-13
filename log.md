@@ -348,5 +348,5 @@
 
 ### Day 74: April 13, 2018
 
-**Today's Progress**: KnowJS conference ! https://www.crowdcast.io/e/fundamental-javascript going deeper into functional programming https://codepen.io/Radhika-Tupkary/pen/WzBLrr
+**Today's Progress**: KnowJS conference ! https://certifiedfreshevents.com/events/knowjs-2018/ going deeper into functional programming https://codepen.io/Radhika-Tupkary/pen/WzBLrr
 
