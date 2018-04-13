@@ -329,3 +329,24 @@
 ### Day 69: April 8, 2018
 
 **Today's Progress**: Intro to Webpack!
+
+### Day 70: April 9, 2018
+
+**Today's Progress**: going deeper into webpack 
+
+### Day 71: April 10, 2018
+
+**Today's Progress**: worked on React blog post app 
+
+### Day 72: April 11, 2018
+
+**Today's Progress**: did some coding in Python after many days
+
+### Day 73: April 12, 2018
+
+**Today's Progress**: I TOOK A DAY OFF! and thats okay! :-) needed a break
+
+### Day 74: April 13, 2018
+
+**Today's Progress**: KnowJS conference ! https://www.crowdcast.io/e/fundamental-javascript going deeper into functional programming https://codepen.io/Radhika-Tupkary/pen/WzBLrr
+
