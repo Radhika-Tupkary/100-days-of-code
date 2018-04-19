@@ -350,3 +350,26 @@
 
 **Today's Progress**: KnowJS conference ! https://certifiedfreshevents.com/events/knowjs-2018/ going deeper into functional programming https://codepen.io/Radhika-Tupkary/pen/WzBLrr
 
+### Day 75: April 14, 2018
+
+**Today's Progress**: some more react
+
+### Day 76: April 15, 2018
+
+**Today's Progress**: some more react
+
+### Day 77: April 16, 2018
+
+**Today's Progress**: some more react
+
+### Day 78: April 17, 2018
+
+**Today's Progress**: no coding.. 
+
+### Day 79: April 18, 2018
+
+**Today's Progress**: no coding again...! :-/
+
+### Day 80: April 19, 2018
+
+**Today's Progress**: leaning Redux-form!
